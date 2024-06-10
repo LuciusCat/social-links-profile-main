@@ -1,0 +1,16 @@
+* text=auto
+
+*.c text
+*.cpp text
+*.h text
+*.js text
+*.ts text
+*.tsx text
+*.html text
+*.css text
+*.md text
+*.json text
+*.yml text
+
+*.sh text eol=lf
+*.cjs text eol=lf
