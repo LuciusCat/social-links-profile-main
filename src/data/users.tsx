@@ -4,5 +4,5 @@ export const user1 = {
   alt: "Foto de Jessica Randall",
   name: "Jessica Randall",
   address: "London, United Kingdom",
-  description: "Front-end developer and avid reader",
+  description: '"Front-end developer and avid reader"',
 };
