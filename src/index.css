@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Inter", sans-serif;
+  src: url("./assets/fonts/Inter-VariableFont_slnt\,wght.ttf")
+    format("truetype");
+}
+
+:root {
+  --primary-color: hsl(75, 94%, 57%);
+  --neutral-white: hsl(0, 0%, 100%);
+  --neutral-grey: hsl(0, 0%, 20%);
+  --neutral-dark-grey: hsl(0, 0%, 12%);
+  --neutral-off-black: hsl(0, 0%, 8%);
+  --font-weight-normal: 400;
+  --font-weight-semi-bold: 600;
+  --font-weight-bold: 700;
+}
+
+* {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
